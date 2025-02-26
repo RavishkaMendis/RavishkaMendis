@@ -18,7 +18,7 @@
 
 <h2> 📄 Degrees & Certificates </h2>
 
-- <b> Bachelor's of Cyber Security </b>
+- <b> Bachelor of Cyber Security </b>
 - <b> Diploma in Cyber Security </b>
 - <b> ICS2 - Certified in Cyber Security </b>
 - <b> AWS Cloud Practitioner </b>
