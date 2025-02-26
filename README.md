@@ -4,6 +4,7 @@
 <h2>👮 Cyber Security Projects and Challengers:</h2>
 
 - <b>Azure SOC Lab (honey pot) to monitor live traffic using Sentinel</b>
+  - https://github.com/RavishkaMendis/HoneyPot
 - <b>BTLO SOC challange to monitor unauthorized access using KQL</b>
 - <b> University ethical hacking project on penetration testing and OSINT on a multi state company
 - <b>BTLO Phishing Lab to investigate a phining email </b>
