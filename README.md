@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ravishka! <br/><a href="https://github.com/joshmadakor1">Coding hobbyist</a>, <a href="https://www.linkedin.com/in/ravishkamendis/">Cybersecurity Professional</a>, Web Developer, AI Automation Consultant
   
 
-<h2>👮 Cyber Security Projects:</h2>
+<h2>👮 Cyber Security Projects and Challengers:</h2>
 
 - <b>Azure SOC Lab (honey pot) to monitor live traffic using Sentinel</b>
 - <b>BTLO SOC challange to monitor unauthorized access using KQL</b>
