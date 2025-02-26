@@ -48,7 +48,7 @@ Certificates currently pursuing:
 
 <h2> 🤳 Connect with me:</h2>
 
-<h2> <a href = "https://twitter.com/ravmendis">  Twitter </a> , <a href = "https://www.instagram.com/ravmendis"> Instagram </a>  , <a href = "https://linkedin.com/in/ravishkamendis"> LinkedIn </a> 
+<h2> <a href = "https://twitter.com/ravmendis">  Twitter </a> , <a href = "https://www.instagram.com/ravishkamendis"> Instagram </a>  , <a href = "https://linkedin.com/in/ravishkamendis"> LinkedIn </a> 
 
 <!--
 
